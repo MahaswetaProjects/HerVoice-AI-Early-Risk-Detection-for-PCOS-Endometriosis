@@ -64,6 +64,3 @@ This project explores how **data-driven approaches** can help identify risk patt
 This project is **not a medical diagnostic tool**.  
 It is intended strictly for **educational and research purposes**.
 
-
-
-## 📂 Project Structure
